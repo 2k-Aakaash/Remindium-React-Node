@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Remindium-React-Node/static/css/main.e6c13ad2.css",
+    "main.js": "/Remindium-React-Node/static/js/main.6ae3d580.js",
+    "static/js/787.00f1ca1f.chunk.js": "/Remindium-React-Node/static/js/787.00f1ca1f.chunk.js",
+    "index.html": "/Remindium-React-Node/index.html",
+    "main.e6c13ad2.css.map": "/Remindium-React-Node/static/css/main.e6c13ad2.css.map",
+    "main.6ae3d580.js.map": "/Remindium-React-Node/static/js/main.6ae3d580.js.map",
+    "787.00f1ca1f.chunk.js.map": "/Remindium-React-Node/static/js/787.00f1ca1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6ae3d580.js"
+  ]
+}
